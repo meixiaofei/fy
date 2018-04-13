@@ -43,7 +43,7 @@ body {background: #eee;font-family: SHSCN-ELight, "寰蒋闆呴粦","PingHei"
 }
 .swiper-slide:nth-of-type(1) .ms_bg { background:url(../img/1.jpg)  no-repeat center; background-size:100% auto;}
 .swiper-slide:nth-of-type(2) .ms_bg { background:url(../img/2.jpg)  no-repeat center; background-size:100% auto;}
-.swiper-slide:nth-of-type(3) .ms_bg { background:url(../img/3.jpg)  no-repeat center; background-size:100% auto;}
+.swiper-slide:nth-of-type(3) .ms_bg { background:url(../img/5.jpg)  no-repeat center; background-size:100% auto;}
 .swiper-slide:nth-of-type(4) .ms_bg { background:url(../img/4.jpg)  no-repeat center; background-size:100% auto;}
 .swiper-slide:nth-of-type(5) .ms_bg{ background:url(../img/10.jpg) no-repeat center; background-size:100% auto;}
 .swiper-slide:nth-of-type(6) .ms_bg{ background:url(../img/11.jpg) no-repeat center; background-size:100% auto;}
@@ -78,7 +78,7 @@ nav img{width:40%;}
 .ms_two_title_list li:nth-of-type(1){background:url(../img/wz.png) no-repeat left center; background-size:10% auto;}
 .ms_two_title_list li:nth-of-type(2){background:url(../img/yy.png) no-repeat left center; background-size:10% auto;}
 .ms_two_title_list li:nth-of-type(3){background:url(../img/ds.png) no-repeat left center; background-size:10% auto;}
-.ms_three_img{width:90%; position:absolute; top:12%; left:5%;}
+.ms_three_img{width:70%; position:absolute; top:12%; left:0; right: 0; margin: auto;}
 .ms_three_title{width:70%; left:15%; text-align: left;}
 .ms_three_title,.ms_four_title{ position:absolute; top:45%; width:100%; font-size: 22px;  font-family: "SHSCN-ELight";}
 .ms_three_content{position:absolute; top:51%; width:70%;left:15%;}
